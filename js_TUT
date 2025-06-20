@@ -1,0 +1,8 @@
+let display =document.getElementById("display");
+
+Function appendToDisplay(vaule){
+display.textContent=display.textContent+value;
+
+
+
+}
